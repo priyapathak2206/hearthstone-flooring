@@ -1,52 +1,17 @@
 # Hearthstone Flooring
 
-A modern and responsive flooring store website designed to provide
-customers with an attractive and user-friendly way to explore flooring
-products and services.
+A modern responsive flooring store prototype with product browsing, filtering, product details, coverage calculation, cart, demo authentication, and checkout.
 
-##  Live Demo
-
-Coming soon.
-
-##  Features
-
-- Modern and clean landing page
-- Responsive design
-- Flooring product showcase
-- Product categories
-- Interactive navigation
-- Product information sections
-- Contact section
-- Mobile-friendly interface
-
-##  Technologies Used
-
+## Technologies
 - HTML5
 - CSS3
 - JavaScript
-- Responsive Web Design
 
-##  Project Purpose
+## Project Structure
+- `index.html` - page structure and content
+- `style.css` - all extracted CSS styles and responsive rules
+- `script.js` - product data and application functionality
+- `README.md` - project documentation
 
-This project was created as a frontend web development practice project
-to build a real-world business website and improve skills in responsive
-UI design and web development.
-
-The initial implementation was created with AI-assisted development and
-then organized as a GitHub project.
-
-##  Responsive Design
-
-The website is designed to work across:
-
-- Desktop
-- Tablet
-- Mobile
-
-##  Project Structure
-
-```text
-hearthstone-flooring/
-│
-├── index.html
-└── README.md
+## Note
+This is a frontend prototype. Accounts, cart data, and orders are stored only in the browser session and no real payments are processed.
